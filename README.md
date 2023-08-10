@@ -20,6 +20,6 @@ A telegram based android RAT
 - Then send your bot name. For example : OPTIX-RAT
 - Send your bot username. For example Optix_Rat_bot
 - Copy the botToken and paste it on index.js token value
-- The search <a href="https://t.me/cybersh_bot">@cybersh_bot</a> then type ````/id````
+- The search <a href="https://t.me/userinfo_fashuxbot">@userinfo_fashuxbot</a> then type ````/start````
 - Copy your id and edit the index.js id value.
 - RAT setup full tutorial : <a href="">Watch Now</a>
